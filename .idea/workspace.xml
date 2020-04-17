@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bdb092d-1fbb-4a6c-8a6f-bb0b5ecda888" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="R Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aSzALkKHurZDiwgZZAxgKi0PrE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tang4\PycharmProjects\YellowCabNYC" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bdb092d-1fbb-4a6c-8a6f-bb0b5ecda888" name="Default Changelist" comment="" />
+      <created>1586743638456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586743638456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="895" y="263" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586983308164">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="895" y="263" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2293.920@0.0.2293.920" timestamp="1586983308164" />
+    <state x="878" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587073548100">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="878" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2293.920@0.0.2293.920" timestamp="1587073548100" />
+    <state x="903" y="175" key="#xdebugger.evaluate" timestamp="1586990979077">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="903" y="175" key="#xdebugger.evaluate/0.0.2293.920@0.0.2293.920" timestamp="1586990979077" />
+    <state x="928" y="187" key="FileChooserDialogImpl" timestamp="1587084539048">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="928" y="187" key="FileChooserDialogImpl/0.0.2293.920@0.0.2293.920" timestamp="1587084539048" />
+    <state x="728" y="204" key="IDE.errors.dialog" timestamp="1587007250437">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="728" y="204" key="IDE.errors.dialog/0.0.2293.920@0.0.2293.920" timestamp="1587007250437" />
+    <state x="788" y="125" key="SettingsEditor" timestamp="1587008620908">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="788" y="125" key="SettingsEditor/0.0.2293.920@0.0.2293.920" timestamp="1587008620908" />
+    <state width="1154" height="467" key="XDebugger.FullValuePopup" timestamp="1587072580474">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state width="1154" height="467" key="XDebugger.FullValuePopup/0.0.2293.920@0.0.2293.920" timestamp="1587072580474" />
+    <state x="804" y="114" width="670" height="676" key="search.everywhere.popup" timestamp="1586984080587">
+      <screen x="0" y="0" width="2293" height="920" />
+    </state>
+    <state x="804" y="114" width="670" height="676" key="search.everywhere.popup/0.0.2293.920@0.0.2293.920" timestamp="1586984080587" />
+  </component>
+</project>

@@ -1,0 +1,157 @@
+{
+    "113": {
+        "lat": 40.732225179999936,
+        "lon": -73.99496754899997,
+        "mode": "taxi",
+        "nei": {
+            "137": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "161": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "186": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "246": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            }
+        }
+    },
+    "137": {
+        "lat": 40.740335749775284,
+        "lon": -73.97717209350195,
+        "mode": "taxi",
+        "nei": {
+            "113": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "161": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "186": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "246": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            }
+        }
+    },
+    "161": {
+        "lat": 40.75803031499993,
+        "lon": -73.97768016050001,
+        "mode": "taxi",
+        "nei": {
+            "113": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "137": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "186": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "246": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            }
+        }
+    },
+    "186": {
+        "lat": 40.748496368499886,
+        "lon": -73.99243404399994,
+        "mode": "taxi",
+        "nei": {
+            "113": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "137": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "161": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "246": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            }
+        }
+    },
+    "246": {
+        "lat": 40.75241161267808,
+        "lon": -74.0038113169179,
+        "mode": "taxi",
+        "nei": {
+            "113": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "137": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "161": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            },
+            "186": {
+                "mode": "taxi",
+                "dist": 0,
+                "time": 0,
+                "rate": 0.01
+            }
+        }
+    }
+}
